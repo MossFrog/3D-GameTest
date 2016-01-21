@@ -1,5 +1,5 @@
-# 3D-GameTest :video_game:
-My first 3D game, the engine utilizes openGL 3D (Namely the Leadworks engine), it is merely a simple tech demo.
+# 3D-GameTest
+:video_game: My first 3D game, the engine utilizes openGL 3D (Namely the Leadworks engine), it is merely a simple tech demo.
 
 
 //-- 3D Game Demo Created with the Leadworks engine --//
